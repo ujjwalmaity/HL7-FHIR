@@ -1,0 +1,33 @@
+{
+    "resourceType": "Patient",
+    "name": [
+        {
+            "use": "official",
+            "given": [ "Ujjwal" ],
+            "family": "Maity"
+        }
+    ],
+    "gender": "male",
+    "birthDate": "2025-10-24",
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "123",
+            "use": "mobile"
+        },
+        {
+            "system": "email",
+            "value": "test@email.com"
+        }
+    ],
+    "address": [
+        {
+            "line": [
+                "BTM Layout"
+            ],
+            "city": "Manipal",
+            "state": "Karnataka",
+            "postalCode": "560071"
+        }
+    ]
+}
