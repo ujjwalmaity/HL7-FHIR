@@ -1,0 +1,23 @@
+{
+    "resourceType": "Observation",
+    "status": "final",
+    "code": {
+        "coding": [
+            {
+                "system": "https://loinc.org",
+                "code": "15074-8",
+                "display": "Glucose [Moles/volume] in Blood"
+            }
+        ]
+    },
+    "subject": {
+        "reference": "Patient/50834232",
+        "display": "Ujjwal Maity"
+    },
+    "valueQuantity": {
+        "value": 6.3,
+        "unit": "mmol/l",
+        "system": "https://units-of-measurement.org",
+        "code": "mmol/L"
+    }
+}
