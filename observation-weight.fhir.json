@@ -17,21 +17,24 @@
         "coding": [
             {
                 "system": "http://loinc.org",
-                "code": "15074-8",
-                "display": "Glucose [Moles/volume] in Blood"
+                "code": "29463-7",
+                "display": "Body weight"
             }
         ],
-        "text": "Blood Glucose"
+        "text": "Body weight"
     },
     "subject": {
-        "reference": "Patient/50834232",
-        "display": "Ujjwal Maity"
+        "reference": "Patient/erXuFYUfucBZaryVksYEcMg3",
+        "display": "Camila Lopez"
+    },
+    "encounter": {
+        "reference": "Encounter/eoK8nLRcEypNjtns4dgnF3Q3"
     },
     "effectiveDateTime": "2025-10-25T12:00:00Z",
     "valueQuantity": {
-        "value": 6.3,
-        "unit": "mmol/l",
+        "value": 65,
+        "unit": "kg",
         "system": "http://unitsofmeasure.org",
-        "code": "mmol/L"
+        "code": "kg"
     }
 }
